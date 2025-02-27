@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Chef-Ski
+- 👋 Hi, I’m Chef-Ski - creater of $orbai $agenticai
 - 👀 I’m interested in the Blockchain and Web Developement.
 - 🌱 I’m currently learning cryptography and blockchain developement
 
-- 📫 Contact me on twitter @officalchefski@gmail.com
+- 📫 Contact me @officalchefski@gmail.com
 - ⚡ Fun fact: Im not a fun guy.
 
 <!---
