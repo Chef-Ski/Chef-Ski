@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Chef-Ski (@skionchain on X)
+- 👋 Hi, I’m Chef-Ski
 - 👀 I’m interested in the Blockchain and Web Developement.
 - 🌱 I’m currently learning cryptography and blockchain developement
 
-- 📫 Contact me on twitter @skionchain
+- 📫 Contact me on twitter @officalchefski@gmail.com
 - ⚡ Fun fact: Im not a fun guy.
 
 <!---
