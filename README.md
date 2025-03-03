@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning cryptography and blockchain developement
 
 - 📫 Contact me @officalchefski@gmail.com
-- ⚡ Fun fact: Im not a fun guy.
+
 
 <!---
 Chef-Ski/Chef-Ski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
